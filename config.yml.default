@@ -1,0 +1,6 @@
+bot_nick: bot-nickname
+restricted_nick: restricted-nickname
+phone: 8008675309
+server: irc.freenode.net
+port: 6667
+channel: yourchannel
